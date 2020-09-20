@@ -4,7 +4,7 @@ const FULL_HEART = '♥'
 
 // Your JavaScript code goes here!
 
-document.querySelector('.hiddin')
+document.getElementById('modal').classes.add('hiddin');
 
 
 //------------------------------------------------------------------------------
